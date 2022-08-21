@@ -1,4 +1,4 @@
-##Alkemy Challenge Java
+#ALKEMY CHALLENGE JAVA
 
 Resolucion del Challenge de Java para la aceleracion de septiembre en Alkemy
 
