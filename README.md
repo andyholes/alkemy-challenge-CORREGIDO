@@ -8,3 +8,5 @@ Se implementaron las tecnologias de:
 - Spring Data JPA
 - Spring Security
 - MySQL
+- JWT
+- Java Mail
